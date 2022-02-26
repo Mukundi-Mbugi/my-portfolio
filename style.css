@@ -4,3 +4,7 @@ h1 {
     color: rgb(247, 159, 108);
     font-size: 40px;
 }
+h1 span {
+    color: #ffffff;
+    font-size: 50px;
+}
