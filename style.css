@@ -52,3 +52,10 @@ body {
     margin-left: 60px;
     margin margin-top: 80px;    
 }
+.who{
+    font-size: 15px;
+    display: flex;
+    margin-left: 60px;
+    margin-top: 2px;
+    padding-bottom: 20px;
+}
