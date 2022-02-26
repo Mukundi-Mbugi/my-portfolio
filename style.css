@@ -3,6 +3,7 @@ h1 {
     padding-top: 80px;
     color: rgb(247, 159, 108);
     font-size: 40px;
+    margin-top: 50px;
 }
 h1 span {
     color: #ffffff;
@@ -13,7 +14,7 @@ h1 span {
 }
 .buton{
     margin-left: 180px;
-    margin-top: 60px;
+    margin-top: 80px;
 }
 .button3{
     text-decoration: none;
