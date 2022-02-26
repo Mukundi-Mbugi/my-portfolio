@@ -25,4 +25,15 @@ h1 span {
 body {
     background-color: #DFF6FF;
 }
+.foot {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #01b0f5;
+    font-size: 15px;
+    flex-wrap: ;
+    text-align: center;
+}
+.foot span {
+    margin-left: 20px;
+}
 
